@@ -1,0 +1,10 @@
+.card {
+  align-items: center;
+
+  border: none;
+}
+.card-img {
+  border-radius: 50%;
+  width: 50%;
+  height: 105px;
+}

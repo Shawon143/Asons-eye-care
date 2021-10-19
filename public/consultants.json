@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Dr. Siddiqur Rahman",                    
+        "degree": "MBBS, D-Ophth, FCPS (Eye)",                          
+        "specialist": "Glaucoma Specialist",                          
+        "img": "https://visioneyebd.org/uploads/doctors/56b4549f8c90df41554ee4ee61f587e6.jpg"            
+               
+    },
+    {
+        "name": "Dr. Ummay Kawsar",                    
+        "degree": "MBBS, FCPS (Eye)",  
+        "specialist": "Glaucoma Specialist",                         
+        "img": "https://visioneyebd.org/uploads/doctors/7ca9e07091c6d3cbc446793a4b55bd02.jpg"             
+               
+    },
+    
+    {
+        "name": "DR. MD. ARIFUL ISLAM",                    
+        "degree": "MBBS, FCPS (Eye)",  
+        "specialist": "Glaucoma Specialist",                         
+        "img": "https://visioneyebd.org/uploads/doctors/doctor_20200505022838.png"             
+               
+    },
+    
+    {
+        "name": "Dr. Md. Hafizur Rahman",                    
+        "degree": "MBBS, FCPS (Eye)",  
+        "specialist": "Retina & Phaco Surgeon ",                         
+        "img": "https://visioneyebd.org/uploads/doctors/doctor_20200505015733.png"             
+               
+    },
+    {
+        "name": "Prof. Dr. Colonel Zahid",                    
+        "degree": "MBBS, MCPS, DO, FCPS (EYE)",  
+        "specialist": "Fellow Phaco & LASIK (India) ",                         
+        "img": "https://visioneyebd.org/uploads/doctors/076a237fdc4696362ae544cb0333c7c0.PNG"             
+               
+    },
+    {
+        "name": "Dr. Md. Masudul Hasan",                    
+        "degree": "MBBS, FCPS, D-Opth, MCPS (Eye)",  
+        "specialist": "Fellowship in Cornea & Anterior ",                         
+        "img": "https://visioneyebd.org/uploads/doctors/9a8eb70b6359550a9346d3fd61691c32.png"             
+               
+    },
+    
+    {
+        "name": "Dr. Md. Hasanuzzaman",                    
+        "degree": "MBBS. MCPS. FCPS (Eye)",  
+        "specialist": "Fellow orbit & Oculoplasty (NIO&H) ",                         
+        "img": "https://visioneyebd.org/uploads/doctors/doctor_20200422064350.png"             
+               
+    }
+    
+    
+]
