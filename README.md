@@ -10,6 +10,6 @@ Live site link : https://asons-eye-care.web.app
  * You can see Many Service our hospital
  * You can get help by us .
 * you can know  our Consultants.
-* you can login easily by your gmail
+* Build a secure authentication system using Firebase.
 * you can know many eye problem .
 
